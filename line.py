@@ -18,7 +18,7 @@ def line():
 
     print("Dados los siguientes puntos:")
     print(f"\tP1 ({X1}, {Y1})")
-    print(f"P2({X2}, {Y2})\n")
+    print(f"\tP2 ({X2}, {Y2})\n")
 
 
     distancia = math.sqrt((X2 - X1)**2 + (Y2 - Y1)**2)
